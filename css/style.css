@@ -7,3 +7,8 @@ body
 {
 	text-align: center;
 }
+
+. strike
+{
+	text-decoration: line-through;
+}
